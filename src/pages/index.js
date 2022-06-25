@@ -132,6 +132,7 @@ const IndexPage = () => {
       <title>Home Page</title>
       <p>hello test page</p>
       <p>Some changes</p>
+      <p>Deployed with a github action</p>
     </main>
   );
 };
