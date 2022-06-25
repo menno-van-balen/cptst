@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcptst=self.webpackChunkcptst||[]).push([[678],{6558:function(e,t,l){l.r(t);var n=l(7294);t.default=function(){return n.createElement("main",{style:pageStyles},n.createElement("title",null,"Home Page"),n.createElement("p",null,"hello test page"),n.createElement("p",null,"Some changes"),n.createElement("p",null,"Deployed with a github action"),n.createElement("p",null,"Another change"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-4ed0aaece79f9f25012a.js.map
