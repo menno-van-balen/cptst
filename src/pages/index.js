@@ -10,6 +10,7 @@ const IndexPage = () => {
       <p>Some changes</p>
       <p>Deployed with a github action</p>
       <p>Some more changes</p>
+      <p>Some new changes on a new branch</p>
     </main>
   );
 };
